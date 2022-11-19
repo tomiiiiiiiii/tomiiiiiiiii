@@ -1,4 +1,6 @@
-🟨 Hago cosas raras cuando me aburro, como por ejemplo, hacer programas retro o buscar cosas de los 2000, solo que me da flojera publicarlos aquí...
+🟨 Hola! Soy una persona que usa GitHub para guardar programas antiguos, juegos u otras cosas. 
+
+🎲 Archive donde publico cosas de vez en cuando: archive.org/details/@tom1sp
 
 <!---
 tomiiiiiiiii/tomiiiiiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
